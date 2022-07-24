@@ -1,1 +1,1 @@
-# shiny-octo-telegram
+# simple registration window
